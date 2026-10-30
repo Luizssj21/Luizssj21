@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 data-importer="text" align="center">🎖️Estudante de Engenharia de Software | Desenvolvimento de Software, Arquitetura de Sistemas, Backend e Automação.🚀🎢</h2>
 
 ###
